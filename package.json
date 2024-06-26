@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-	"ng": "ng",
+    "ng": "ng",
     "start": "ng serve",
     "dev": "vite",
     "build": "vite build",
@@ -14,6 +14,7 @@
     "cy:run": "cypress run"
   },
   "dependencies": {
+    "ng": "^0.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.0"
