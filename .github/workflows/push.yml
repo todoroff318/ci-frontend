@@ -31,4 +31,4 @@ jobs:
       - name: Start Angular server
         run: npm start &
 
-    
+      - name: Run Cypress Tests
